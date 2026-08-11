@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://keigo77.github.io/PythonEx/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
