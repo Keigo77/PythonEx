@@ -9,7 +9,8 @@ function Card({sections}){
                     
                     {section.contents.map((content, index) => (
                         <CardContent key={index}
-                        link={content.link}
+                        // link の値に三項演算子を直接適用します
+                        link={(!content.openDate || (content.openDate && new Date(content.openDate) < Date.now())) ? content.link : ''}
                         name={content.name}
                         />
                     ))}
