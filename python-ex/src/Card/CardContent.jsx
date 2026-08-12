@@ -3,9 +3,13 @@ import '../App.css'
 function CardContent({link, name}){
     return(
         <>
-            <a href={link}>
-                <p className='card-content'>{name}</p>
-            </a>
+            {link ? 
+                (
+                <a href={link}>
+                    <p className='card-content'>{name}</p>
+                </a>
+                ) : (<p className='card-content'>{name}</p>)
+            }
         </>
     )
 }
