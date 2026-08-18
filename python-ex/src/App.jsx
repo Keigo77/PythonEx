@@ -47,8 +47,8 @@ function App() {
         { name: '中間試験について', link: 'https://drive.google.com/file/d/1BQLC6_E0oFOqYUd7HZF4oERkFJbmJHeC/view?usp=drive_link' },
         { name: '中間試験対策問題', link: 'https://drive.google.com/file/d/1EeJb7joEUIqpwIKRnSYm9rL50PGoOjqn/view?usp=drive_link' },
         { name: 'AIの使い方', link: 'https://drive.google.com/file/d/1T0NgMsisglIPU5kU0QqTwn6MumMDeJuX/view?usp=drive_link' },
-        { name: '試験問題(2026/08/20 20時に公開)', link:'https://drive.google.com/file/d/11BbnKhxfyWXqlrNzrePFErz991w8iByQ/view?usp=drive_link', openDate: '2026-08-20T20:00:00' },
-        { name: '解答(2026/08/20 20時に公開)', link:'https://drive.google.com/file/d/11cwpiDB2g0wmOQneShTh2z55jKpOdRMg/view?usp=drive_link', openDate: '2026-08-20T20:10:00'},
+        { name: '試験問題(2026/08/20 20時に公開)', link:'https://drive.google.com/file/d/1KdO1SpbRUVhYDFOHoIL3iBT1rytgcC2v/view?usp=drive_link', openDate: '2026-08-20T20:00:00' },
+        { name: '解答(2026/08/20 20時に公開)', link:'https://drive.google.com/file/d/18qbz2uRTajgE2kUoY7mdddalCV6f8TyI/view?usp=drive_link', openDate: '2026-08-20T20:10:00'},
       ]
     },
     {
